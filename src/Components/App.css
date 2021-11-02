@@ -1,0 +1,21 @@
+.App {
+  background-color: #333;
+  min-height: 100vh;
+}
+
+.App-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid;
+}
+
+.App-header--black-mode {
+  border-bottom-color: #fff;
+}
+
+.App-title {
+  color: #fff;
+  margin: 0;
+}
